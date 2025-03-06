@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/Pokemon-game-series.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(8, 8, 8);
+  }
+
+
+  .container{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(237, 253, 6);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px black ;
+  }
+
+button {
+    width: 8em;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    margin: auto;
+    margin-top: 1em;
+}
+
+img {
+    background-color: blue;
+    display:none;
+    min-width: 25em;
+    margin: auto;
+}
+
+input {
+    text-align: center;
+    margin: auto;
+}
+
+.card {
+    
+    border: none;
+    max-height: 0px;
+    background-color: rgb(31, 7, 248);
+}
+
+.card h2 {  
+    color: white;
+    margin: auto;
+    padding-top: 5em;
+    font-weight: bolder;
+}
+
+.input {
+    width: 5
+}
+
+h1{
+    text-align: center;
+    color: rgb(8, 8, 8);
+
+}
+
